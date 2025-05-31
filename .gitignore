@@ -1,0 +1,9 @@
+# ---- Folders ----
+bin/
+lib/
+__pycache__/
+
+# ---- Files ----
+pyvenv.cfg
+*.env
+*.log

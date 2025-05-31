@@ -1,0 +1,21 @@
+{
+    "GeopoliticalRiskIndex":{
+        "general_configs": {
+            "folder_logs": "",
+            "file_csv_name": "Miscellaneous - Global - Geopolitical Risk Index - GPR.csv",
+            "folder_files_csv": "Data/Geopriskindex",
+            "upload_csv_files": true,
+
+            "repository_id_upload": "",
+            "dataset_name": "Miscellaneous - Global - Geopolitical Risk Index - GPR",
+            "dataset_description": "Fuente: [Geo Political Index](https://www.geopriskindex.com/)\n"
+        },
+        "notify_system":{
+            "send_notify": true,
+            "name": "GeopoliticalRiskIndex",
+            "link": "https://www.geopriskindex.com/",
+            "url_webhook_success": "",
+            "url_webhook_error": ""
+        }
+    }
+}

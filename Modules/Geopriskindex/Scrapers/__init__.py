@@ -1,0 +1,1 @@
+from .scraper_risk_index import ScraperGeoPoliticalRiskIndex
